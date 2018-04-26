@@ -27,4 +27,4 @@ Labels: Buy/Sell/Hold
 - Else - Hold
 
 ### Results: 
-47% mean accuracy for all S&P 500 companies in predicting buy/hold/sell
+54% mean accuracy for all S&P 500 companies in predicting buy/hold/sell (random arcuracy: 33%)

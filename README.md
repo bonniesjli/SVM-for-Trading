@@ -26,7 +26,5 @@ Labels: Buy/Sell/Hold
 - Sell - if price drop more than 2% for the next 7 days
 - Else - Hold
 
-^For this model, I followed the Programming for Finance tutorial by Sentdex (Harrison Kinsley)
-
 ### Results: 
 47% mean accuracy for all S&P 500 companies in predicting buy/hold/sell
